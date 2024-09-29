@@ -1,4 +1,8 @@
-## Hi there 👋
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,I+am+xuhe;Welcome)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuhe2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuhe2)
 
 <!--
 **xuhe2/xuhe2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

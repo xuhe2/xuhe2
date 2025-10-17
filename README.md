@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,I+am+xuhe;Welcome)
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,I+am+xuhe;Southeast+University+graduate+student;Welcome)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuhe2)
 

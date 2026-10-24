@@ -1,43 +1,59 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,I+am+xuhe;Southeast+University+graduate+student;Welcome)
+<h1 align="center">Hi, I'm xuhe</h1>
+
+<p align="center">
+  <samp>BACKEND ENGINEERING · LLM / MLLM · AI AGENTS</samp>
+</p>
+
+<p align="center">
+  <a href="https://www.cnblogs.com/xuhe2"><img src="https://img.shields.io/badge/Blog-24292F?style=flat-square&logo=blogger&logoColor=60A5FA" alt="Blog" /></a>
+  <a href="mailto:xuhe114514@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<br>
 
 ## 🧑‍💻 关于我
 
-我是一名专注于 **开源开发**, **后端开发** 与 **AI 算法研究** 的工程师。
+我是一名热爱 **开源开发**、**后端开发** 与 **AI 研究** 的工程师。
 
-- 🚀 **核心领域**: 专注于 **VLM (Vision-Language Models)** 的模型算法研究及其在实际场景中的应用落地。
-- 🛠️ **后端专长**: 擅长使用 **Golang** 构建高性能的服务端应用。
-- 🔬 **研究兴趣**: 探索大模型（LLMs/VLMs）的高效微调、自动化工作流以及软硬件结合的工程实践。
-- 💡 **开放交流**: 欢迎探讨任何有趣且具有价值的话题——无论是硬核的技术实现、产品设计思路，还是对未来的深度思考。
+- **LLM / MLLM**：正在学习与理解前沿研究，关注模型原理与方法。
+- **后端开发**：主要使用 **Go** 构建服务端应用，关注性能与工程质量。
+- **Agent 应用**：探索工具调用与自动化工作流，关注真实世界中的具体问题求解。
+- **AI科研辅助**: 使用AI配合进行科学任务探索, 和他人合作沉淀想法([DARE](https://github.com/yogsoth-ai/de-anthropocentric-research-engine))
 
----
+## 🛠 技术栈
 
-### 🛠 我的技术栈
+<samp>Languages</samp>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Go-24292F?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-24292F?style=flat-square&logo=cplusplus&logoColor=659AD2" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
 
----
+<samp>AI &amp; Research</samp>
 
-### 📫 如何联系我
-
-<p align="left">
-<a href="mailto:xuhe114514@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.cnblogs.com/xuhe2"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" /></a>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-24292F?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-24292F?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/TensorFlow-24292F?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=xuhe2&label=Profile%20views&color=0e75b6&style=flat" alt="xuhe2" />
+<samp>Engineering</samp>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=7AAED6" alt="PostgreSQL" />
+</p>
+
+<br>
+
+<p align="center">
+  欢迎交流模型研究、工程实践与产品想法。
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xuhe2&label=Profile%20views&color=64748b&style=flat-square" alt="Profile views" />
 </p>

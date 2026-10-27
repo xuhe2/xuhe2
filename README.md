@@ -8,10 +8,6 @@
   <a href="mailto:xuhe114514@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=FCA5A5" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <samp>BUILDING USEFUL SYSTEMS AT THE INTERSECTION OF CODE &amp; INTELLIGENCE</samp>
-</p>
-
 <table>
   <tr>
     <td width="56%" valign="top">

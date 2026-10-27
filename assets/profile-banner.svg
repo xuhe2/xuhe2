@@ -1,65 +1,64 @@
-<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">xuhe — backend and AI builder</title>
-  <desc id="desc">A dark gradient banner with a glowing grid, the name xuhe, and a backend engineering and AI research tagline.</desc>
+<svg width="1280" height="430" viewBox="0 0 1280 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">xuhe — backend engineer and AI builder</title>
+  <desc id="desc">A dark identity card for xuhe, focused on backend engineering, large language models, and AI agents.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#080B18"/>
-      <stop offset="0.52" stop-color="#101631"/>
-      <stop offset="1" stop-color="#16102B"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="120" y1="70" x2="1030" y2="290" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#67E8F9"/>
-      <stop offset="0.5" stop-color="#818CF8"/>
-      <stop offset="1" stop-color="#E879F9"/>
-    </linearGradient>
-    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1130 42) rotate(139.2) scale(438 378)">
-      <stop stop-color="#22D3EE" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 350) rotate(-31.4) scale(506 314)">
-      <stop stop-color="#A855F7" stop-opacity="0.25"/>
-      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M 42 0 L 0 0 0 42" stroke="#94A3B8" stroke-opacity="0.09" stroke-width="1"/>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" stroke="#CBD5E1" stroke-opacity="0.055" stroke-width="1"/>
     </pattern>
-    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="14"/>
-    </filter>
     <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <clipPath id="round"><rect width="1280" height="360" rx="24"/></clipPath>
+    <clipPath id="round"><rect width="1280" height="430" rx="26"/></clipPath>
   </defs>
 
   <g clip-path="url(#round)">
-    <rect width="1280" height="360" fill="url(#background)"/>
-    <rect width="1280" height="360" fill="url(#grid)"/>
-    <rect width="1280" height="360" fill="url(#cyanGlow)"/>
-    <rect width="1280" height="360" fill="url(#violetGlow)"/>
+    <rect width="1280" height="430" fill="#0A1022"/>
+    <rect width="1280" height="430" fill="url(#grid)" fill-opacity="0.7"/>
+    <circle cx="1120" cy="60" r="260" fill="#22D3EE" fill-opacity="0.1"/>
+    <circle cx="340" cy="430" r="330" fill="#A855F7" fill-opacity="0.1"/>
 
-    <circle cx="1110" cy="42" r="112" fill="#22D3EE" fill-opacity="0.1" filter="url(#blur)"/>
-    <circle cx="1110" cy="42" r="4" fill="#A5F3FC" filter="url(#softGlow)"/>
-    <circle cx="1070" cy="85" r="2" fill="#C4B5FD"/>
-    <circle cx="1162" cy="104" r="3" fill="#F0ABFC"/>
+    <path d="M-60 374C150 316 250 396 430 342C620 285 698 322 846 252C1005 177 1092 213 1340 112" stroke="#67E8F9" stroke-opacity="0.2" stroke-width="2"/>
+    <path d="M-80 398C145 338 252 420 432 366C620 309 698 346 846 276C1005 201 1092 237 1350 136" stroke="#818CF8" stroke-opacity="0.1" stroke-width="8"/>
 
-    <path d="M-30 312C160 272 210 340 380 292C548 244 663 274 800 218C956 154 1050 190 1310 106" stroke="url(#accent)" stroke-opacity="0.36" stroke-width="2"/>
-    <path d="M-40 334C150 294 210 362 380 314C548 266 663 296 800 240C956 176 1050 212 1310 128" stroke="url(#accent)" stroke-opacity="0.12" stroke-width="7" filter="url(#blur)"/>
+    <rect x="78" y="70" width="6" height="286" rx="3" fill="#67E8F9"/>
+    <rect x="108" y="68" width="218" height="30" rx="15" fill="#0F172A" fill-opacity="0.8" stroke="#A5B4FC" stroke-opacity="0.28"/>
+    <circle cx="129" cy="83" r="5" fill="#67E8F9" filter="url(#softGlow)"/>
+    <text x="145" y="89" fill="#C4B5FD" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="2">XUHE / PROFILE</text>
 
-    <rect x="70" y="62" width="7" height="236" rx="3.5" fill="url(#accent)"/>
-    <text x="112" y="133" fill="#A5F3FC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="4">HELLO, I'M</text>
-    <text x="108" y="214" fill="white" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="84" font-weight="800" letter-spacing="-4">xuhe</text>
-    <text x="114" y="263" fill="#CBD5E1" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" letter-spacing="0.5">Backend engineering  ·  LLM / MLLM  ·  AI agents</text>
+    <text x="108" y="177" fill="#A5F3FC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+    <text x="103" y="274" fill="#F8FAFC" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="104" font-weight="800">xuhe</text>
+    <rect x="108" y="289" width="230" height="4" rx="2" fill="#67E8F9" fill-opacity="0.72"/>
+    <text x="110" y="319" fill="#E2E8F0" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="27" font-weight="600" letter-spacing="0.2">Backend engineer  ·  AI builder</text>
 
-    <g opacity="0.75">
-      <rect x="1020" y="178" width="132" height="132" rx="24" fill="#0F172A" fill-opacity="0.58" stroke="#A5B4FC" stroke-opacity="0.3"/>
-      <path d="M1057 220H1116M1057 241H1128M1057 262H1103" stroke="#67E8F9" stroke-width="4" stroke-linecap="round"/>
-      <circle cx="1140" cy="220" r="7" fill="#F0ABFC"/>
-      <circle cx="1140" cy="241" r="7" fill="#818CF8"/>
-      <circle cx="1140" cy="262" r="7" fill="#67E8F9"/>
+    <g transform="translate(110 345)">
+      <rect width="112" height="29" rx="14.5" fill="#22D3EE" fill-opacity="0.12" stroke="#67E8F9" stroke-opacity="0.4"/>
+      <text x="56" y="19" text-anchor="middle" fill="#A5F3FC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="1.2">GO SYSTEMS</text>
+      <rect x="122" width="98" height="29" rx="14.5" fill="#818CF8" fill-opacity="0.12" stroke="#A5B4FC" stroke-opacity="0.42"/>
+      <text x="171" y="19" text-anchor="middle" fill="#C4B5FD" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="1.2">LLM / MLLM</text>
+      <rect x="230" width="104" height="29" rx="14.5" fill="#F0ABFC" fill-opacity="0.1" stroke="#F0ABFC" stroke-opacity="0.4"/>
+      <text x="282" y="19" text-anchor="middle" fill="#F5D0FE" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="1.2">AGENTS</text>
+    </g>
+
+    <g transform="translate(840 68)">
+      <rect width="350" height="292" rx="24" fill="#080D20" fill-opacity="0.9" stroke="#818CF8" stroke-opacity="0.35"/>
+      <rect x="1" y="1" width="348" height="54" rx="23" fill="#111A36" fill-opacity="0.74"/>
+      <circle cx="25" cy="27" r="6" fill="#FB7185"/>
+      <circle cx="47" cy="27" r="6" fill="#FBBF24"/>
+      <circle cx="69" cy="27" r="6" fill="#34D399"/>
+      <text x="101" y="32" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1">focus.log</text>
+
+      <text x="30" y="96" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" font-weight="700">$ cat focus.txt</text>
+      <text x="30" y="132" fill="#F8FAFC" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="700">Building useful systems</text>
+      <text x="30" y="160" fill="#CBD5E1" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16">at the intersection of code</text>
+      <text x="30" y="183" fill="#CBD5E1" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16">and intelligence.</text>
+
+      <rect x="30" y="214" width="290" height="1" fill="#475569" fill-opacity="0.5"/>
+      <circle cx="38" cy="250" r="5" fill="#34D399" filter="url(#softGlow)"/>
+      <text x="54" y="255" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="1.5">CURRENTLY BUILDING</text>
+      <text x="30" y="278" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">backend · research · product ideas</text>
     </g>
   </g>
 
-  <rect x="1" y="1" width="1278" height="358" rx="23" stroke="url(#accent)" stroke-opacity="0.28" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="428" rx="25" stroke="#A5B4FC" stroke-opacity="0.24" stroke-width="2"/>
 </svg>
